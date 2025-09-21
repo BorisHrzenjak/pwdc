@@ -1,6 +1,6 @@
 # PWDC - Print Working Directory Copy
 
-![a-vintage-computer-graphics-illustration_MrEsA1RFT_2fi8r5izbBZw_dprQ93NCT2i9jE0ZvCtU6A](https://github.com/user-attachments/assets/c51e7052-9618-48e8-9bb6-d5cab8f212b5)
+![a-vintage-computer-graphics-illustration_MrEsA1RFT_2fi8r5izbBZw_dprQ93NCT2i9jE0ZvCtU6A](https://github.com/user-attachments/assets/a46dbae9-561f-4997-bfb8-30e6d7cdfcbf)
 
 
 A simple command-line utility that copies the current working directory path to your clipboard.
